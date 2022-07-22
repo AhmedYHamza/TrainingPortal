@@ -3,8 +3,8 @@
 		"accountId": "Local_dojouser",
 		"familyName": "User",
 		"givenName": "Dojo",
-		"passSalt": "10reQI4qf4/er5v4YOtC4w==",
-		"passHash": "+7mxJYHUDiElYfZZGm7lZCzEei8imdIev7bDetHP+Eb8aEf0qTlijWndv3C+RdUEcXjqNTavtvWNWUbSSQ2m1w=="
+		"passSalt": "QgmdMBAspuw0YjVNrkhBvw==",
+		"passHash": "ExcD1EGUz1Se9pCk1TkBrJAPJkowCC5c4OuDL8JXGzasR3NUVMBHaM5gNq5nn1QHBmQlHRuC7Ap6bR/Z1Uab5A=="
 	},
 	"user": {
 		"givenName": "nbihv",
