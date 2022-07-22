@@ -1,10 +1,7 @@
 *node_modules*
 *.DS_Store
 *config.js
-*config.json
-localUsers.json
 *.csv
-allowedAccounts.json
 .ebextensions
 *.db
 *.npm

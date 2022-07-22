@@ -1,0 +1,45 @@
+{
+	"dojouser": {
+		"accountId": "Local_dojouser",
+		"familyName": "User",
+		"givenName": "Dojo",
+		"passSalt": "10reQI4qf4/er5v4YOtC4w==",
+		"passHash": "+7mxJYHUDiElYfZZGm7lZCzEei8imdIev7bDetHP+Eb8aEf0qTlijWndv3C+RdUEcXjqNTavtvWNWUbSSQ2m1w=="
+	},
+	"user": {
+		"givenName": "nbihv",
+		"familyName": "hbihg",
+		"passSalt": "n3mw+cZ5a4vDJ8Ufashb2w==",
+		"passHash": "RW+I7x27BUCbOHAL7fZoolUKNZjs9RGKrSTF3EC+Us6roENVvne/BJtObpLDqccVwsx1/6iqOuFy1aHi65m0vw=="
+	},
+	"admin": {
+		"givenName": "Admin",
+		"familyName": "admin",
+		"passSalt": "fEcRGi89EJXhXLEnH4wUqw==",
+		"passHash": "n3znuKEwDCDlwZ5WSwMyiw/MSvSYyPxoH4K/4sv5UHW7yUSJ8GSsvUFinRTfuBqbidmXUsqMiE4RpzvlQTQbyg=="
+	},
+	"jdshajhk": {
+		"givenName": "hgigh",
+		"familyName": "hhgkjg",
+		"passSalt": "TqI9smD8x9uKU9RAGXwP8w==",
+		"passHash": "itPUxrKtJKb3ihQTyAr7uoA/qMO9mFZfw+6tQxL2/oFGtsXkMkBGuX2EYpSweMcsb8W4Plm+L/G1xCnhHt6mEA=="
+	},
+	"gigkjgk": {
+		"givenName": "hgigh",
+		"familyName": "hhgkjg",
+		"passSalt": "CkxSJXChbFg6eBLQjNeuvQ==",
+		"passHash": "ukMbIv63+/l2OvZ/BwLORCoPRFoe7KF7F+ODSyCW1XLtB+cn68I59qAWNMlquyQuj7TLO5RHm8HzlGtwi2eGMw=="
+	},
+	"hjhjhvjh": {
+		"givenName": "hgigh",
+		"familyName": "hhgkjg",
+		"passSalt": "BZoE+pMwDe1VYlYqp6N4/g==",
+		"passHash": "xq0odKMaCa93OdnHEleU9Gegwr3YXBqQwSEDBAJ4fzqwdxMm2tNLAbb5wKEgi42SuLxkKaLjPZMK/jDnblXlAg=="
+	},
+	"test": {
+		"givenName": "test",
+		"familyName": "name",
+		"passSalt": "+Zpy+lpcjWFtYhEsA780ow==",
+		"passHash": "O+tt3cjwRjZ7iMQ/+Hl4HJHpBJ90HZIZdwzHn1Hg8gbt9XeL6NtUq/zj24GeO4smdvfdp7yd14unevtdNUKAlA=="
+	}
+}
